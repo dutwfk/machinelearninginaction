@@ -40,7 +40,7 @@ def plotBestFit(weights):
     dataMat, labelMat = loadDataSet()
     dataArr = array(dataMat)
     n = shape(dataArr)[0]
-    xcord1 = []      
+    xcord1 = []
     ycord1 = []
     xcord2 = []
     ycord2 = []
